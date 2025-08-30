@@ -1,4 +1,4 @@
-Ce proejet vis à a faire dl'analyse comportemental des acheteurs d'une entreprise de e-commerce fictive. A la fin de l'analyse, des recommandations sont faite pour l'équipe commercial.
+Ce projet vise à faire l'analyse comportemental des acheteurs d'une entreprise fictive de e-commerce . A la fin de l'analyse, des recommandations sont faite pour l'équipe commercial.
 
 Seul le langage SQl a été utilisé dans ce projet. 
 
